@@ -7,7 +7,7 @@ I’m currently learning front and back-end programming
 
 you can reach me at phrb21@gmail.com
 
-I am just starting, but I am realy exited soon be able to create cool things :)
+I am just starting, but I am realy exited to soon be able to create cool things :)
 
 <!---
 Xtree0/Xtree0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
